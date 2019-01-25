@@ -36,13 +36,13 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/profile_pic.png
+logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Cedric Perret
+  email:                c.perret[@]napier.ac.uk
   picture:             /assets/img/profile_pic.jpg
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
