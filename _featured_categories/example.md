@@ -27,6 +27,6 @@ fwewfe
 /example/2017-01-01-ECAL2017]  
 
 
-* this unordered seed list will be replaced by toc as unordered list
+*
 {:toc}  
 
