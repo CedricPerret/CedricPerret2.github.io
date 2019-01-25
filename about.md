@@ -25,13 +25,12 @@ order: 4
 
 <!--author-->
 
+[Research gate](https://www.researchgate.net/profile/Cedric_Perret)
+[Google scholar](https://scholar.google.co.uk/citations?user=tWozIw8AAAAJ&hl=en)
 
 ## Hydejack
 
-efwfwefwefwef
-Research gate [Research gate]: https://www.researchgate.net/profile/Cedric_Perret
-Google scholar
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
