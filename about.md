@@ -23,7 +23,7 @@ menu: true
 order: 4
 ---
 
-!--author--
+--author--
 
 ## Hydejack
 
