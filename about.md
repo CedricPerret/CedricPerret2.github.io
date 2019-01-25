@@ -24,6 +24,3 @@ order: 1
 ---
 
 <!--author-->
-
-[Research gate](https://www.researchgate.net/profile/Cedric_Perret)
-[Google scholar](https://scholar.google.co.uk/citations?user=tWozIw8AAAAJ&hl=en)
