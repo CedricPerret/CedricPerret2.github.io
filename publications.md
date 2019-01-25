@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Publications
+
+menu: true
+order: 2
 ---
 
 Can justice be fair when it is blind? How social network structures can promote or prevent the evolution of despotism. **Perret, C.**, Powers, S. T., Pitt, J. & Hart, E. (2017). *Proceedings of the 2018 Conference on Artificial Life*
