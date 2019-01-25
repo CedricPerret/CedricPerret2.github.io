@@ -19,7 +19,7 @@ order: 1
 ---
 
 fwefw  
-[wfefwe](/example/2017-01-01-ECAL2017.md)
+[wfefwe](/example/2017-01-01-ECAL2017/)
 fwewfe  
 [PhD]dwedwe
 [PhD](PhD)
