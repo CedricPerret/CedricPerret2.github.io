@@ -109,10 +109,7 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      path: publications.md
-    values:
-      menu: true
+
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
