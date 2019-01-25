@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Cedric Perret
-  email:             c.perret[@]napier.ac.uk
+  email:             c.perret@napier.ac.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,7 +26,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   # social:
-    # twitter:         <username>
+    twitter:            cedric_perret13
     # github:          <username>
     # download:        <url>
     # email:           <mail@domain.tld>

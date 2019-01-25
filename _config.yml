@@ -45,7 +45,7 @@ author:
   email:                c.perret[@]napier.ac.uk
   picture:             /assets/icons/icon.jpg
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             cedric_perret13
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
