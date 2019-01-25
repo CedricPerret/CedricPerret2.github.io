@@ -110,7 +110,10 @@ defaults:
     values:
       seo:
         type:          WebPage
-
+  - scope:
+      path: test.md
+    values:
+      menu: true
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
