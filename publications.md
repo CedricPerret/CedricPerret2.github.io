@@ -7,5 +7,5 @@ Can justice be fair when it is blind? How social network structures can promote 
 
 Emergence of hierarchy from the evolution of individual influence in an agent-based model.\
 **Perret, C., Powers, S. T., & Hart, E.** \
-(2018)
+(2018)  
 *14th European Conference on Artificial Life 2017*, 348-355
