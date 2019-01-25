@@ -29,7 +29,7 @@ order: 4
 ## Hydejack
 
 efwfwefwefwef
-Research gate [blog]: https://www.researchgate.net/profile/Cedric_Perret
+Research gate [Research gate]: https://www.researchgate.net/profile/Cedric_Perret
 Google scholar
 
 
@@ -206,5 +206,8 @@ This table below shows what's included in each version:
 [rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
+
+#Mes trucs
+[Research gate]: https://www.researchgate.net/profile/Cedric_Perret
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
