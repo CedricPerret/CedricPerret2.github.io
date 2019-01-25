@@ -25,11 +25,13 @@ order: 4
 
 <!--author-->
 
+
+## Hydejack
+
+
 Research gate [blog]: https://www.researchgate.net/profile/Cedric_Perret
 Google scholar
 
-
-## Hydejack
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
