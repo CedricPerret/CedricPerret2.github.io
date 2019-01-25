@@ -31,7 +31,7 @@ order: 4
 efwfwefwefwef
 Research gate [Research gate]: https://www.researchgate.net/profile/Cedric_Perret
 Google scholar
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
@@ -207,7 +207,6 @@ This table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-#Mes trucs
-[Research gate]: https://www.researchgate.net/profile/Cedric_Perret
+
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
