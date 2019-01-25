@@ -23,6 +23,8 @@ menu: true
 order: 4
 ---
 
+!--author--
+
 ## Hydejack
 
 The "Best Jekyll Theme by a Mile".
