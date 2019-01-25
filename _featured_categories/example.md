@@ -19,7 +19,7 @@ order: 1
 ---
 
 fwefw  
-[wfefwe](/example/2017-01-01-ECAL2017/)
+[wfefwe](https://cedricperret.github.io/example/2017-01-01-example/)
 fwewfe  
 [PhD]dwedwe
 [PhD](PhD)
