@@ -23,6 +23,5 @@ menu: true
 order: 1
 ---
 
-<!--author-->
-    My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). 
+My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). 
 
