@@ -49,7 +49,7 @@ error:
 # ---------------------------------------------------------------------------------------
 colon:                 ':'
 separator:             '|'
-category_start:        ' '
+category_start:        'in '
 category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
