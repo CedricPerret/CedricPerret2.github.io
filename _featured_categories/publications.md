@@ -9,9 +9,8 @@ title: Publications
 slug: publications
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: > 
-	[Research gate](https://www.researchgate.net/profile/Cedric_Perret), [Google scholar](https://scholar.google.co.uk/citations?user=tWozIw8AAAAJ&hl=en)
-	
+description:
+
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
 order: 1
