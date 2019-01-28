@@ -9,11 +9,11 @@ title: Publications
 slug: publications
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: [Research gate](https://www.researchgate.net/profile/Cedric_Perret)
+description: Please find below a list of my publications
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 1
+order: 2
 ---
 
 
