@@ -60,7 +60,7 @@ copyright:             >
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             /:categories/:year-:title/
+permalink:             /:categories/:year-:month-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
