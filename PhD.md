@@ -3,7 +3,7 @@ layout: page
 title: PhD
 
 menu: true
-order: 3
+order: 2
 ---
 
 ## Equality, hierarchy, oligarchy: Model-driven investigation of the evolutionary origins of social organization  
