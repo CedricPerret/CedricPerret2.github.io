@@ -20,5 +20,7 @@ menu: true
 order: 1
 ---
 
+I am a 3rd year PhD student at Edinburgh Napier University under the supervision of [Simon Powers](https://www.napier.ac.uk/people/simon-powers) and [Emma Hart](https://www.napier.ac.uk/people/emma-hart). 
+
 My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). 
 
