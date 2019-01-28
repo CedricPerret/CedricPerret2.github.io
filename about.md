@@ -20,7 +20,11 @@ menu: true
 order: 1
 ---
 
-I am a 3rd year PhD student at Edinburgh Napier University under the supervision of [Simon Powers](https://www.napier.ac.uk/people/simon-powers) and [Emma Hart](https://www.napier.ac.uk/people/emma-hart). 
+I am a 3rd year PhD student in the Centre of Algorithms, Visualisation and Evolving Systems at Edinburgh Napier University under the supervision of [Simon Powers](https://www.napier.ac.uk/people/simon-powers) and [Emma Hart](https://www.napier.ac.uk/people/emma-hart). 
 
+### Interests
 My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). 
+
+### Background
+I obtained my master degree in Evcology and Evolutionary Biology at the University of Montpellier in 2016. I also had the chance to participate to the Santa Fe Summer school on Complex systems in 2018. 
 
