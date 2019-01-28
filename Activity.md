@@ -14,7 +14,7 @@ order: 4
 
 ## Workshops and Seminars
 **2018:** Coordinator of the Workshop on Trust between Intelligent Machines and Humans - *Edinburgh Napier University, Edinburgh, UK*\\
-**2017:** Coordinator of PhD Masterclasses for sharing skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*\\
+**2017:** Coordinator of PhD Masterclasses: a place to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*\\
 **2017-2018:** Coordinator of the School of Computing Seminar Serie - *Edinburgh Napier University, Edinburgh, UK*
 
 ## Public engagement

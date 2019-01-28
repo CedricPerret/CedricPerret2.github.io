@@ -28,5 +28,5 @@ My research interests lie in the evolution of social behaviour (cooperation, coo
 [ResearchGate](https://www.researchgate.net/profile/Cedric_Perret)
 
 ### Background
-I obtained my bachelor degree in Biology and Ecology at the University of Besancon in 2012 and my master degree in Ecology and Evolutionary Biology at the University of Montpellier in 2016. I also had the chance to participate to the Santa Fe Summer school on Complex systems in 2018. 
+I obtained my bachelor degree in Biology and Ecology at the University of Besancon in 2012 and my master degree in Ecology and Evolutionary Biology at the University of Montpellier in 2016. I am a PhD student at Edinburgh Napier University since 2016. I also had the chance to participate to the Santa Fe Summer school on Complex systems in 2018. 
 
