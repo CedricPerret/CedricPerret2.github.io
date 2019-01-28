@@ -57,7 +57,7 @@ tag_separator:         ', '
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y'
+  post:                '%Y %b'
   related_post:        '%d %b %Y'
   list_group_by:       '%Y'
   list_entry:          '%Y %b'
