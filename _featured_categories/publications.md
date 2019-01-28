@@ -3,10 +3,10 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Publications
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: publications
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
@@ -18,13 +18,6 @@ menu: true
 order: 1
 ---
 
-fwefw  
-[wfefwe](https://cedricperret.github.io/example/2017-01-01-example/)
-fwewfe  
-[PhD]dwedwe
-[PhD](PhD)
-[/example/2017-01-01-ECAL2017/]
-/example/2017-01-01-ECAL2017]  
 
 
 
