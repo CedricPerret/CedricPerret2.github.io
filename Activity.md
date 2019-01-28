@@ -17,3 +17,8 @@ order: 4
 **2017:** Coordinator of PhD Masterclasses for sharing skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*\\
 **2017-2018:** Coordinator of the School of Computing Seminar Serie - *Edinburgh Napier University, Edinburgh, UK*
 
+## Awards
+**2017**: Best poster Awards - *Edinburgh Napier University Conference*
+
+
+
