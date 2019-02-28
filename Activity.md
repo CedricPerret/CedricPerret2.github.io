@@ -8,33 +8,32 @@ order: 4
 
 ## International Conferences
 
-**Oral presentation**
-- Evolution 2018: II Joint Congress on Evolutionary Biology - *Montpellier, France* - [WebConf](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/1051_21082018_1420_joffrecd_Cedric_Perret_2178/index.html) - [Slides](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/slides/1051_21082018_1420_joffrecd_Cedric_Perret_2178/1051_21082018_1420_joffrecd_Cedric_Perret_926_wmk.pdf)
-- ECAL 2017: European Conference on Artificial Life - *Lyon, France*
+**Oral presentation:**
+- **Evolution** (2018): II Joint Congress on Evolutionary Biology - *Montpellier, France* - [WebConf](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/1051_21082018_1420_joffrecd_Cedric_Perret_2178/index.html) - [Slides](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/slides/1051_21082018_1420_joffrecd_Cedric_Perret_2178/1051_21082018_1420_joffrecd_Cedric_Perret_926_wmk.pdf)
+- **ECAL** (2017): European Conference on Artificial Life - *Lyon, France*
 
-**Participation**
-- **ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*
-- **PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
+**Participation:**
+- **ESEB** (2017): Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*
+- **PPSN** (2016): 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
 
 ## Workshops
-**Lead Coordinator**
-- **[EHB ALIFE 2019](https://ehbalife.github.io)** ALIFE Workshop on Evolution of Human Behaviour: Using Theory to Address Societal Challenges - *Newcastle, UK*
-- **[EDI 2019](https://edi2019.github.io)** Workshop on Evolution and Dynamics of Institutions - *Edinburgh, UK*
+**Lead Coordinator:**
+- **[EHB ALIFE](https://ehbalife.github.io)** (2019): ALIFE Workshop on Evolution of Human Behaviour: Using Theory to Address Societal Challenges - *Newcastle, UK*
+- **[EDI](https://edi2019.github.io)** (2019): Workshop on Evolution and Dynamics of Institutions - *Edinburgh, UK*
 
-**Coordinator**
+**Coordinator:**
 - **[EDI 2018](https://tim2018.wordpress.com/)** Workshop on Trust between Intelligent Machines and Humans - *Edinburgh, UK*
 
 
 ## Seminar series
-**Coordinator**
+**Coordinator:**
 - **2017: PhD Masterclasses**: a place to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*
 - **2017-2018: School of Computing Seminar Serie** - *Edinburgh Napier University, Edinburgh, UK*
 
 ## Public engagement
-**2018: SciVid:** Creation of an animation video to present research work - *Edinburgh, UK*\\
-Lead Coordinator\\
-**2017-2018: [Explorathon](http://www.explorathon.co.uk/edinburgh/)** - *Edinburgh, UK*\\
-[Exhibitor]
-
+**Lead coordinator:**
+- **2018: SciVid:** Creation of an animation video to present research work - *Edinburgh, UK*
+**Exhibitor*:*
+- **2017-2018: [Explorathon](http://www.explorathon.co.uk/edinburgh/)** - *Edinburgh, UK*
 
 
