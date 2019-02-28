@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activity
+title: Activities
 
 menu: true
 order: 4
@@ -12,13 +12,18 @@ order: 4
 **ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*\\
 **PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
 
-## Workshops and Seminars
-**2018:** Coordinator of the Workshop on Trust between Intelligent Machines and Humans - *Edinburgh Napier University, Edinburgh, UK*\\
-**2017:** Coordinator of PhD Masterclasses: a place to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*\\
-**2017-2018:** Coordinator of the School of Computing Seminar Serie - *Edinburgh Napier University, Edinburgh, UK*
+## Workshops
+**[EHB ALIFE 2019](https://ehbalife.github.io)** ALIFE Workshop on Evolution of Human Behaviour: Using Theory to Address Societal Challenges - *Newcastle, UK* - [Lead Coordinator]
+**[EDI 2019](https://edi2019.github.io)** Workshop on Evolution and Dynamics of Institutions - *Edinburgh, UK* - [Lead Coordinator]
+**[EDI 2018](https://tim2018.wordpress.com/)** Workshop on Trust between Intelligent Machines and Humans - *Edinburgh, UK* - [Coordinator]\\
+
+## Seminar series
+**2017:** PhD Masterclasses: a place to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK* - [Coordinator]\\
+**2017-2018:** School of Computing Seminar Serie - *Edinburgh Napier University, Edinburgh, UK* - [Coordinator]
 
 ## Public engagement
-2017-2018: [Explorathon](http://www.explorathon.co.uk/edinburgh/)
+**2018**: SciVid: Creation of an animation video to present research work - *Edinburgh, UK* - [Lead Coordinator]
+**2017-2018**: [Explorathon](http://www.explorathon.co.uk/edinburgh/) - *Edinburgh, UK* - [Exhibitor]
 
 
 
