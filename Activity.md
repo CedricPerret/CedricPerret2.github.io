@@ -22,18 +22,18 @@ order: 4
 - **[EDI](https://edi2019.github.io)** (2019): Workshop on Evolution and Dynamics of Institutions - *Edinburgh, UK*
 
 **Coordinator:**
-- **[EDI 2018](https://tim2018.wordpress.com/)** Workshop on Trust between Intelligent Machines and Humans - *Edinburgh, UK*
+- **[EDI](https://tim2018.wordpress.com/)** (2018): Workshop on Trust between Intelligent Machines and Humans - *Edinburgh, UK*
 
 
 ## Seminar series
 **Coordinator:**
-- **2017: PhD Masterclasses**: a place to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*
-- **2017-2018: School of Computing Seminar Serie** - *Edinburgh Napier University, Edinburgh, UK*
+- **PhD Masterclasses** (2017): Seminar series to share skills and knowledge between PhD students - *Edinburgh Napier University, Edinburgh, UK*
+- **School of Computing Seminar Serie** (2017-2018) - *Edinburgh Napier University, Edinburgh, UK*
 
 ## Public engagement
 **Lead coordinator:**
-- **2018: SciVid:** Creation of an animation video to present research work - *Edinburgh, UK*
+- **SciVid:** (2018): Creation of an animation video to present research work - *Edinburgh, UK*
 **Exhibitor*:*
-- **2017-2018: [Explorathon](http://www.explorathon.co.uk/edinburgh/)** - *Edinburgh, UK*
+- **[Explorathon](http://www.explorathon.co.uk/edinburgh/)** (2017,2018): - *Edinburgh, UK*
 
 
