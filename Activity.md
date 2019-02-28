@@ -19,7 +19,8 @@ Oral Presentation\\
 **Participation**
 
 ## Workshops
-**[Lead Coordinator]** [EHB ALIFE 2019](https://ehbalife.github.io) ALIFE Workshop on Evolution of Human Behaviour: Using Theory to Address Societal Challenges - *Newcastle, UK*\\
+####Lead Coordinator
+[EHB ALIFE 2019](https://ehbalife.github.io) ALIFE Workshop on Evolution of Human Behaviour: Using Theory to Address Societal Challenges - *Newcastle, UK*\\
 Lead Coordinator\\
 **[EDI 2019](https://edi2019.github.io)** Workshop on Evolution and Dynamics of Institutions - *Edinburgh, UK*
 Lead Coordinator\\

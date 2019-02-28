@@ -22,7 +22,7 @@ order: 1
 
 I am a 3rd year PhD student in evolutionary dynamics and social evolution at Edinburgh Napier University under the supervision of [Simon Powers](https://www.napier.ac.uk/people/simon-powers) and [Emma Hart](https://www.napier.ac.uk/people/emma-hart). 
 
-My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). In particular, I aim to investigate *how mechanisms to maintain cooperation and coordination have changed during the transition from small human groups to large societies of unrelated individuals?*
+My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). Of particular relevance to my work is the question of *how mechanisms to maintain cooperation and coordination have changed during the transition from small human groups to large societies of unrelated individuals?*
 
 On a broader spectrum, my research interests lie in (i) evolution at different levels (genes, individuals, groups) and (ii) the interaction between different dynamics, e.g. ecology and evolution, cultural and biological evolution. 
 
