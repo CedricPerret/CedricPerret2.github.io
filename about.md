@@ -28,9 +28,10 @@ On a broader spectrum, my research interests lie in (i) evolution at different l
 
 To investigate these topics, I use models ranging from analytical models, i.e. adaptive dynamics and game theory, through to numerical simulations, i.e. individual–centered models and opinion formation models.
 
-[Google Scholar](https://scholar.google.co.uk/citations?user=tWozIw8AAAAJ&hl=en)\\
-[ResearchGate](https://www.researchgate.net/profile/Cedric_Perret)
-[Detailed CV](/assets/CV/CV_Perret.pdf)
+You can find more details on my:
+	- [Google Scholar](https://scholar.google.co.uk/citations?user=tWozIw8AAAAJ&hl=en)
+	- [ResearchGate](https://www.researchgate.net/profile/Cedric_Perret)\\
+	- [Detailed CV](/assets/CV/CV_Perret.pdf)
 
 ### Academic background
 I am a PhD student at Edinburgh Napier University since 2016. I obtained my master degree in Ecology and Evolutionary Biology at the University of Montpellier in 2016. I also had the chance to participate to the Santa Fe Summer school on Complex systems in 2018. 
