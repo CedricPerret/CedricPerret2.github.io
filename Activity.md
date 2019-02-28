@@ -11,9 +11,9 @@ order: 4
 ***Evolution 2018***: II Joint Congress on Evolutionary Biology - *Montpellier, France*\\
 [WebConf](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/1051_21082018_1420_joffrecd_Cedric_Perret_2178/index.html) - [Slides](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/slides/1051_21082018_1420_joffrecd_Cedric_Perret_2178/1051_21082018_1420_joffrecd_Cedric_Perret_926_wmk.pdf)\\
 **ECAL 2017**: European Conference on Artificial Life - *Lyon, France*
-____________________________
-**Participation**\\
 
+
+**Participation**
 - **ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*
 - **PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
 
