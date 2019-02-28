@@ -35,6 +35,6 @@ order: 4
 - **SciVid:** (2018): Creation of an animation video to present research work - *Edinburgh, UK*
 
 **Exhibitor:**
-- **[Explorathon](http://www.explorathon.co.uk/edinburgh/)** (2017,2018): - *Edinburgh, UK*
+- **[Explorathon](http://www.explorathon.co.uk/edinburgh/)** (2017,2018) - *Edinburgh, UK*
 
 
