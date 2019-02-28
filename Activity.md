@@ -13,8 +13,9 @@ order: 4
 **ECAL 2017**: European Conference on Artificial Life - *Lyon, France*
 ____________________________
 **Participation**\\
-**ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*\\
-**PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*\\
+
+- **ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*
+- **PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
 
 ## Workshops
 **Lead Coordinator**\\
